@@ -1,0 +1,43 @@
+(Python)
+
+_pycache_/
+.pyo
+$py.class
+
+(Installer Logs)
+pip-log.txt
+pip-delete-this-directory.txt
+
+(Unit Test/coverage)
+.pytest_cache/
+.coverage
+htmlcov/
+
+(mypy/ pyright type checking)
+.mypy_cache/
+.dmypy.json
+dmypy.json
+.pyright/
+
+(Environment/secrets)
+.env
+.env*
+*.env
+secrets.txt
+
+(Generated reports- ignore output files)
+reports/disk_report_*.txt
+reports?disk_report_latest.txt
+audit_report.txt
+
+(Bash/Shell)
+*.sh.swp
+
+(Books)
+GCP/GCP- Books
+AWS/AWS-Books
+
+(Videos)
+.mp4
+mov
+mkv
