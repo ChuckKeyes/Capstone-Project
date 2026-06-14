@@ -7,11 +7,13 @@ read -p "Select an Option: " choice
 if [ "$choice" = "1" ]; then  
 
     echo "now running script 1..."
+    cd attend
     python Attend_CPG.py
 
 elif [ "$choice" = "2" ]; then 
 
     echo "now running script 2..."
+    cd ht-spec
     python HT_spec.py
 
 else
