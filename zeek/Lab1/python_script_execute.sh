@@ -17,9 +17,3 @@ elif [ "$choice" = "2" ]; then
 else
     echo "invalid selection..Piss Off!!"
 fi
-
-<<<<<<< HEAD
-# Mess-up-merge2
-=======
-# fix2?
->>>>>>> 15c8bf44eeb3e65e5a9f0c4b3edd010acd445c1f
