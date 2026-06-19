@@ -2,7 +2,7 @@
 from quiz_game import question
 
 #name of the quiz
-name = "conflict_quiz"
+name = "math_quiz"
 
 # asks for input from the player
 player = input("Enter your name: ")
